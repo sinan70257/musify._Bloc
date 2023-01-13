@@ -7,9 +7,9 @@ import 'package:musik/model/dbfunctions.dart';
 import 'package:musik/model/mostPlayed.dart';
 import 'package:musik/model/recentlyPlayed.dart';
 import 'package:musik/model/songModel.dart';
-import 'package:musik/screens/splash_screen.dart';
-import 'package:musik/widgets/addTofavourite.dart';
-import 'package:musik/widgets/playlists/addToPlaylist.dart';
+import 'package:musik/screens/other_screens/splash_screen.dart';
+import 'package:musik/screens/favourite_screen/widgets/addTofavourite.dart';
+import 'package:musik/screens/playlists_screen/widgets/addToPlaylist.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 
 class NowPlaying2 extends StatefulWidget {

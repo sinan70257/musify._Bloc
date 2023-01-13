@@ -9,7 +9,7 @@ import 'package:musik/model/songModel.dart';
 import 'package:flutter/material.dart';
 
 import 'package:hive_flutter/adapters.dart';
-import 'package:musik/screens/now_playing.dart';
+import 'package:musik/screens/now_playing/now_playing.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 
 class ScreenPlaylist extends StatefulWidget {

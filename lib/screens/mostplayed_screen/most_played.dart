@@ -6,10 +6,10 @@ import 'package:hive_flutter/adapters.dart';
 import 'package:musik/colors/colors.dart';
 import 'package:musik/model/dbfunctions.dart';
 import 'package:musik/model/mostPlayed.dart';
-import 'package:musik/screens/bottom_navbar.dart';
-import 'package:musik/screens/now_playing.dart';
-import 'package:musik/widgets/addTofavourite.dart';
-import 'package:musik/widgets/playlists/addToPlaylist.dart';
+import 'package:musik/screens/other_screens/bottom_navbar.dart';
+import 'package:musik/screens/now_playing/now_playing.dart';
+import 'package:musik/screens/favourite_screen/widgets/addTofavourite.dart';
+import 'package:musik/screens/playlists_screen/widgets/addToPlaylist.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 
 class mostlyPlayed extends StatefulWidget {

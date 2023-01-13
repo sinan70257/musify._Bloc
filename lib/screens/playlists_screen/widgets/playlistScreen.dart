@@ -5,7 +5,7 @@ import 'package:musik/model/dbfunctions.dart';
 import 'package:musik/model/playlistmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:musik/widgets/playlists/screenPlaylist.dart';
+import 'package:musik/screens/playlists_screen/widgets/screenPlaylist.dart';
 
 class playLists extends StatefulWidget {
   const playLists({super.key});

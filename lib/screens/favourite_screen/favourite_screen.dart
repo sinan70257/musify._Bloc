@@ -4,8 +4,8 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:musik/colors/colors.dart';
 import 'package:musik/model/dbfunctions.dart';
 import 'package:musik/model/favouriteModel.dart';
-import 'package:musik/screens/bottom_navbar.dart';
-import 'package:musik/screens/now_playing.dart';
+import 'package:musik/screens/other_screens/bottom_navbar.dart';
+import 'package:musik/screens/now_playing/now_playing.dart';
 import 'package:musik/widgets/floating_controller.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 
